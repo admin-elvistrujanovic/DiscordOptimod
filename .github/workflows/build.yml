@@ -46,7 +46,7 @@ jobs:
                 name: app-debug
                 path: /tmp/vendetta/apks/app-debug.apk
 
-            - name: "Upload release APK"
+            - name: "Upload release APK and finishing"
               uses: actions/upload-artifact@v3
               with:
                 name: app-release
