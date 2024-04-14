@@ -1,2 +1,2 @@
 include(":app")
-rootProject.name = "VendettaXposed"
+rootProject.name = "DiscordOptimod"
