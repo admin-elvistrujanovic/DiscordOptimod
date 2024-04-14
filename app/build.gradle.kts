@@ -10,11 +10,11 @@ android {
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.vendetta.xposed"
+        applicationId = "com.discord.optimod"
         minSdk = 24
         targetSdk = 33
         versionCode = 8
-        versionName = "1.1.5"
+        versionName = "2.0.0"
     }
 
     buildTypes {
@@ -31,7 +31,7 @@ android {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
     }
-    namespace = "com.vendetta.xposed"
+    namespace = "com.discord.optimod"
 }
 
 dependencies {
